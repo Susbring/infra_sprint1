@@ -1,0 +1,5 @@
+IP: 158.160.90.193;
+name_taski: https://taskibackpit.myddns.me;
+name_kittygram: https://kittygramyapr.ddns.net;
+login: admin;
+password: Uffhfuffhf1;
